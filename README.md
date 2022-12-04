@@ -30,9 +30,10 @@ I'm a first year student in National University - Manila, Philippines majoring i
 ---
 
 <div align="center">
-About me
+  About me
 </div>
 <p align="center">
+
 - I want to become a software engineer
 - My goal is to start my own company or work for the top major tech companies
 - I love solving complex problems
