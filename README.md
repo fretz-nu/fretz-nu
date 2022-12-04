@@ -54,4 +54,12 @@ Languages and Tools
 
 ---
 
- <a href="https://github.com/fretz-nu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fretz-nu&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="fretz-nu's github stats" /></a>  <a href="https://github.com/fretz-nu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fretz-nu&layout=compact&theme=radical&hide_border=true" /></a> 
+ <a href="https://github.com/fretz-nu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fretz-nu&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="fretz-nu's github stats" /></a> <a href="https://github.com/fretz-nu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fretz-nu&layout=compact&theme=radical&hide_border=true" /></a> 
+ 
+---
+
+ <a href="https://github.com/fretz-nu/fretz-nu.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fretz-nu&repo=fretz-nu.github.io&layout=compact&theme=radical&hide_border=true" alt="fretz-nu's static web" /></a> <a href="https://github.com/fretz-nu/CODE-PROBLEMS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fretz-nu&repo=CODE-PROBLEMS&layout=compact&theme=radical&hide_border=true" /></a> 
+ <a href="https://github.com/fretz-nu/lab-manual"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fretz-nu&repo=lab-manual&layout=compact&theme=radical&hide_border=true" /></a>
+
+
+
