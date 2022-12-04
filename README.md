@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-Hello, my name is Fretz!
+Hello! My name is Fretz!
 </p>
 
 <div id="badges"align="center">
@@ -24,7 +24,7 @@ Hello, my name is Fretz!
 </div>
 
 <p align="center">
-I'm a first year student in National University - Manila, Philippines majoring in Computer Science with specialization on Machine Learning. 
+I'm a first year student in National University - Manila, Philippines majoring in Computer Science with specialization in Machine Learning. 
 </p>
 
 ---
