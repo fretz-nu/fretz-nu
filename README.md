@@ -1,12 +1,11 @@
 
 <div id="header" align="center">
-<img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e479j5378oalliz0o885xi61xtalupf9qmmckc6y3ml&rid=giphy.gif&ct=g" width="100"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs1.narvii.com%2Fimage%2F3a5tmtifzuyj7bhxtfl3cax6jv2wnkpd_hq.jpg&f=1&nofb=1&ipt=1fc946a923a3d82158ae6faf56316f6fe9e5fa6dfeb41eb34936c24054d4236b&ipo=images" width="200"/>
 </div>
 
 <p align="center">
 Hello, my name is Fretz!
 </p>
-
 
 <div id="badges"align="center">
   <a href="https://www.facebook.com/1Caguicla.christian/">
@@ -19,6 +18,11 @@ Hello, my name is Fretz!
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e479j5378oalliz0o885xi61xtalupf9qmmckc6y3ml&rid=giphy.gif&ct=g" width="350"/>
+</div>
+
 <p align="center">
 I'm a first year student in National University - Manila, Philippines majoring in Computer Science with specialization on Machine Learning. 
 </p>
@@ -26,10 +30,9 @@ I'm a first year student in National University - Manila, Philippines majoring i
 ---
 
 <div align="center">
-  About me
+About me
 </div>
 <p align="center">
-
 - I want to become a software engineer
 - My goal is to start my own company or work for the top major tech companies
 - I love solving complex problems
@@ -37,16 +40,17 @@ I'm a first year student in National University - Manila, Philippines majoring i
 </p>
 
 --- 
-
-<div id="yt-link"align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ
-" target="_blank"><img src="https://i.ytimg.com/an_webp/Mj3QejzYZ70/mqdefault_6s.webp?du=3000&sqp=CO6Gs5wG&rs=AOn4CLApg9auzTLi_3k4_b4fjHFlD6TDXw" 
-alt="Learn Programming FAST! My Favorite Method!" width="240" height="180" border="10" /></a>
+<div align="center">
+Languages and Tools
 </div>
 
-<div id="header" align="center">
-<img src="https://media2.giphy.com/media/lReVblhSRtxXtfK81w/giphy.gif?cid=ecf05e47olwm8687aq4dnw9k3hk2ywk2n6jlivnys8vltta9&rid=giphy.gif&ct=g" width="100"/>
-</div>
-<p align="center">
-Learn Programming FAST! My Favorite Method!
-</p>
+ <div align="center">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
+</div> 
+
+---
+
+ <a href="https://github.com/fretz-nu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fretz-nu&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="fretz-nu's github stats" /></a>  <a href="https://github.com/fretz-nu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fretz-nu&layout=compact&theme=radical&hide_border=true" /></a> 
