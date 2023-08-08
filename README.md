@@ -14,9 +14,6 @@ Hello, my name is Fretz!
   <a href="http://discordapp.com/users/859873924211802172">
     <img src="https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://twitter.com/Caguics">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 <div id="header" align="center">
@@ -24,7 +21,7 @@ Hello, my name is Fretz!
 </div>
 
 <p align="center">
-I'm a first year student in National University - Manila, Philippines majoring in Computer Science with specialization on Machine Learning. 
+I'm a second year student in National University - Manila, Philippines majoring in Computer Science with specialization on Machine Learning. 
 </p>
 
 ---
@@ -37,7 +34,6 @@ I'm a first year student in National University - Manila, Philippines majoring i
 - I want to become a software engineer
 - My goal is to start my own company or work for the top major tech companies
 - I love solving complex problems
-- My favorite hobby is learning new things
 </p>
 
 --- 
